@@ -103,7 +103,7 @@ def generate_binance_list():
     content = [
         '# NAME: Binance',
         '# AUTHOR: pinche-team',
-        '# REPO: https://github.com/pinche-team/rules'
+        '# REPO: https://github.com/pinche-team/rules',
         f'# UPDATED: {current_time}',
         f'# DOMAIN-SUFFIX: {total_rules}',
         f'# TOTAL: {total_rules}'
