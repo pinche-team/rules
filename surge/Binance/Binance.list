@@ -1,0 +1,63 @@
+# NAME: Binance
+# AUTHOR: pinche-team
+# REPO: https://github.com/pinche-team/rules
+# UPDATED: 2025-02-26 18:15:25
+# DOMAIN-SUFFIX: 57
+# TOTAL: 57
+DOMAIN-SUFFIX,aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
+DOMAIN-SUFFIX,addfd325e6e3.cdn4.forter.com
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com
+DOMAIN-SUFFIX,bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,crt.r2m01.amazontrust.com
+DOMAIN-SUFFIX,crt.rootca1.amazontrust.com
+DOMAIN-SUFFIX,crt.rootg2.amazontrust.com
+DOMAIN-SUFFIX,d3sknckuh1o9tg.cloudfront.net
+DOMAIN-SUFFIX,domain-config-1306379396.file.myqcloud.com
+DOMAIN-SUFFIX,m.api.forter.com
+DOMAIN-SUFFIX,public-1306379396.file.myqcloud.com
+DOMAIN-SUFFIX,public.nftstatic.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.io
+DOMAIN-SUFFIX,static-file-1306379396.file.myqcloud.com
+DOMAIN-SUFFIX,www.binance.click
+DOMAIN-SUFFIX,yingwangtech.cc
+DOMAIN-SUFFIX,yingwangtech.cloud
+DOMAIN-SUFFIX,yingwangtech.club
+DOMAIN-SUFFIX,yingwangtech.mobi
+DOMAIN-SUFFIX,yingwangtech.net
