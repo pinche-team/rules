@@ -102,8 +102,8 @@ def generate_binance_list():
     
     content = [
         '# NAME: Binance',
-        '# AUTHOR: blackmatrix7',
-        '# REPO: https://github.com/blackmatrix7/ios_rule_script',
+        '# AUTHOR: pinche-team',
+        '# REPO: https://github.com/pinche-team/rules'
         f'# UPDATED: {current_time}',
         f'# DOMAIN-SUFFIX: {total_rules}',
         f'# TOTAL: {total_rules}'
