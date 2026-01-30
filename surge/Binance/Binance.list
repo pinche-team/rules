@@ -1,7 +1,7 @@
 # NAME: Binance
 # AUTHOR: pinche-team
 # REPO: https://github.com/pinche-team/rules
-# UPDATED: 2026-01-29 13:12:46
+# UPDATED: 2026-01-30 02:38:35
 # DOMAIN-SUFFIX: 57
 # TOTAL: 57
 DOMAIN-SUFFIX,aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
